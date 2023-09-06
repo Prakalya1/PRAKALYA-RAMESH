@@ -1,0 +1,42 @@
+<html>
+<head>
+    <title>www.ietechennai.in</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+       <a href="about.html">ABOUT </a>
+    <body>
+        <div class="banner">
+            <div class="navbar">
+                <img src="logo.png" class="logo">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="#">EXECUTIVE COMMITTEE</a></li>
+                    <li><a href="#">EVENTS</a></li>
+                    <li><a href="#">MEMBERSHIP</a></li>
+                    <li><a href="#">CONTACT</a></li>
+                </ul>
+            </div>
+            <div class="content">
+                <h1>BE A LIFELONG STUDENT</h1>
+                <P>THE MORE YOU LEARN,THE MORE YOUEARN AND THE MORE SELF CONFIDENCE YOU WILL HAVE.<br>                                    .</P>
+                <div>
+                    <button type="button"><span></span>LOGIN</button>
+                    <button type="button"><span></span>SIGN UP</button>
+                
+                </div>
+                
+                
+                
+                
+             </div>
+                        
+            
+            
+        </div>
+        
+    
+    
+    </body>
+</html>
